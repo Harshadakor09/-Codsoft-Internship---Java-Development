@@ -1,5 +1,5 @@
 
-// Codesoft Internship
+// Codsoft Internship
 // Task_3
 
 import java.util.Scanner;
