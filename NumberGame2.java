@@ -1,4 +1,4 @@
-// Codesoft Internship
+// Codsoft Internship
 // Task_1 
 
 import java.util.Random;
