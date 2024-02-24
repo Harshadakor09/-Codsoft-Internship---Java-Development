@@ -1,7 +1,7 @@
 # -Codsoft-Internship---Java-Development
 
 **TASK 1**
-**NUMBER GAME**
+-**NUMBER GAME**
 
 1. Generate a random number within a specified range, such as 1 to 100.
 
@@ -22,7 +22,7 @@ You can incorporate additional details as follows:
 
 
 **TASK 2**
-**STUDENT GRADE CALCULATOR**
+-**STUDENT GRADE CALCULATOR**
 
 Input: Take marks obtained (out of 100) in each subject.
 
@@ -37,7 +37,7 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 
 **TASK 3**
-**ATM INTERFACE**
+-**ATM INTERFACE**
 
 1.Create a class to represent the ATM machine.
 
